@@ -1,1 +1,3 @@
-# Colony-base
+# Colony base template
+
+Good luck!
