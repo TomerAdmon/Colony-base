@@ -1,0 +1,12 @@
+#    This is a sample blueprint 
+#    https://colonysupport.quali.com/hc/en-us/articles/360001632548-The-Blueprint-YAML-File
+#
+---
+spec_version: 1
+kind: blueprint
+
+metadata:
+  description: Sample blueprint!
+
+debugging:
+  bastion_availability: disabled
